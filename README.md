@@ -1,3 +1,5 @@
+
+# learning it from freeCodeCamp
 ### CatPhotoApp HTML Code Documentation
 
 This HTML document creates a simple webpage for a fictional "CatPhotoApp." The page includes various sections, such as cat photos, lists of things cats like and dislike, and a form to submit cat-related information. Here’s a detailed breakdown of each component:
@@ -105,5 +107,8 @@ The footer contains a message about copyright.
 - **List Elements**: `<ul>`, `<ol>`, `<li>`
 - **Media Elements**: `<img>`, `<figure>`, `<figcaption>`
 - **Links**: `<a>`
+
+![image](https://github.com/user-attachments/assets/5e049992-ffcb-42b3-a289-e66f8010e12e)
+
 
 This HTML structure provides a user-friendly layout, accessible navigation links, and an organized form for user interaction with the CatPhotoApp page.
