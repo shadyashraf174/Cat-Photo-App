@@ -1,7 +1,7 @@
 
-# learned it from freeCodeCamp
-### CatPhotoApp HTML Code Documentation
-
+# CatPhotoApp HTML Code Documentation
+#### learned it from freeCodeCamp
+---
 This HTML document creates a simple webpage for a fictional "CatPhotoApp." The page includes various sections, such as cat photos, lists of things cats like and dislike, and a form to submit cat-related information. Here’s a detailed breakdown of each component:
 
 ---
