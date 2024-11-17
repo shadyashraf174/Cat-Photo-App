@@ -1,6 +1,9 @@
 
 # CatPhotoApp HTML Code Documentation
-#### learned it from freeCodeCamp
+
+#### learned it from [freeCodeCamp](https://www.freecodecamp.org/)
+###### HTML tags give a webpage its structure. You can use HTML tags to add photos, buttons, and other elements to your webpage. In this course, you'll learn the most common HTML tags by building your own cat photo app.
+
 ---
 This HTML document creates a simple webpage for a fictional "CatPhotoApp." The page includes various sections, such as cat photos, lists of things cats like and dislike, and a form to submit cat-related information. Here’s a detailed breakdown of each component:
 
